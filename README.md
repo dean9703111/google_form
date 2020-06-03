@@ -1,2 +1,5 @@
 # google_form
-這是Google Form &amp; Google App Scipt &amp; Line Notify的code
+這是Google Form & Google App Scipt & Line Notify的 code
+
+#這裡有使用說明的Medium
+
