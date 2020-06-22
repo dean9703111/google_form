@@ -1,6 +1,19 @@
-# google_form
-這是Google Form & Google App Scipt & Line Notify的 code
+# 免費打造結合即時通知&店家推廣的問卷程式
 
-#這裡有使用說明的Medium
+### 也許您曾經有這樣的經驗：  
+顧客填寫完問卷後留下負評但店家未即時處置  
+顧客用餐體驗極佳但您卻沒讓他更近一步地幫店裡宣傳  
 
-https://medium.com/@babydragon9703111/%E5%85%8D%E8%B2%BB%E6%89%93%E9%80%A0%E5%B0%88%E5%B1%AC%E6%96%BC%E6%82%A8%E7%9A%84%E5%95%8F%E5%8D%B7%E7%A8%8B%E5%BC%8F-d4cf41ca6720
+### 專案目標：
+1. 客戶留下負面評價時會即時向店長(老闆)的line發出通知，讓店長(老闆)可以馬上了解狀況並處理
+2. 客戶留下好的用餐評價會引導他幫店家粉絲團按讚留下好評
+
+### 本文章使用到的技術：
+1. Google Form表單
+2. Google App Script
+3. LINE Notify
+
+
+## 如果您有興趣可以參考下面的文章喔
+
+這裡有使用說明的[Medium](https://medium.com/@babydragon9703111/%E5%85%8D%E8%B2%BB%E6%89%93%E9%80%A0%E5%B0%88%E5%B1%AC%E6%96%BC%E6%82%A8%E7%9A%84%E5%95%8F%E5%8D%B7%E7%A8%8B%E5%BC%8F-d4cf41ca6720)
